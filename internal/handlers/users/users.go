@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/go-chi/chi/v5"
-	"github.com/iamNilotpal/iam/internal/models"
-	"github.com/iamNilotpal/iam/internal/okta"
-	"github.com/iamNilotpal/iam/pkg/response"
+	"github.com/iamBelugaa/iam/internal/models"
+	"github.com/iamBelugaa/iam/internal/okta"
+	"github.com/iamBelugaa/iam/pkg/response"
 	"go.uber.org/zap"
 )
 

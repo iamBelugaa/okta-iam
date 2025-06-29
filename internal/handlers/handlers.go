@@ -5,9 +5,9 @@ import (
 
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"
-	"github.com/iamNilotpal/iam/internal/config"
-	users_handler "github.com/iamNilotpal/iam/internal/handlers/users"
-	"github.com/iamNilotpal/iam/internal/okta"
+	"github.com/iamBelugaa/iam/internal/config"
+	users_handler "github.com/iamBelugaa/iam/internal/handlers/users"
+	"github.com/iamBelugaa/iam/internal/okta"
 	"go.uber.org/zap"
 )
 

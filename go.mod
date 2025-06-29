@@ -1,4 +1,4 @@
-module github.com/iamNilotpal/iam
+module github.com/iamBelugaa/iam
 
 go 1.24.2
 

@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/iamNilotpal/iam/internal/config"
+	"github.com/iamBelugaa/iam/internal/config"
 	"github.com/okta/okta-sdk-golang/v5/okta"
 )
 

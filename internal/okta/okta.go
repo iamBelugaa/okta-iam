@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/iamNilotpal/iam/internal/models"
+	"github.com/iamBelugaa/iam/internal/models"
 	oktaSdk "github.com/okta/okta-sdk-golang/v5/okta"
 	"go.uber.org/zap"
 )
